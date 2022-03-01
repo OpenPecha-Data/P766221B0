@@ -1,0 +1,184 @@
+id: 9f897e632f19433f9332f7af4cfaf33d
+annotation_type: index
+revision: '00001'
+annotations:
+  5b8024a2cd154a35b6d39499aea3abdc:
+    work_id: WCA26C37D
+    span:
+      vol: 'CIII_Chapter XI: Pūrvāparakoṭiparīkṣa'
+      start: 0
+      end: 0
+  78d6021bfdaf4076ae9817ce7550ffae:
+    work_id: WE5E4FAB4
+    span:
+      vol: 'CIII_Chapter XII: Duḥkhaparīkṣā'
+      start: 0
+      end: 0
+  f2f00daf852c45c7a628796b2b454118:
+    work_id: W0A707B36
+    span:
+      vol: 'CIII_Chapter XIII: Saṃskāraparīkṣā'
+      start: 0
+      end: 12
+  c4c04f43e5864c4282c834e452657ea0:
+    work_id: WF5DB83F2
+    span:
+      vol: 'CIII_Chapter XIV: Saṃsargaparīkṣā'
+      start: 0
+      end: 0
+  ba0218987d1f491bbfbfc596a22faa23:
+    work_id: W84EE8888
+    span:
+      vol: 'CIII_Chapter XV: Svabhāvaparīkṣā'
+      start: 0
+      end: 0
+  181f7c4fd39c4dde8861e4c2d19be4a4:
+    work_id: WB9C77939
+    span:
+      vol: 'CII_Chapter IX: Pūrvaparīkṣā'
+      start: 0
+      end: 0
+  262f2778b6614dfe9190ccb77df97fa1:
+    work_id: W45189371
+    span:
+      vol: 'CII_Chapter VI: Rāgasaktiparīkṣā'
+      start: 0
+      end: 4271
+  1d84b635cdaa46bab976977564854de9:
+    work_id: W47D2FE0F
+    span:
+      vol: 'CII_Chapter VII: Saṃskr̥̥taparīkṣā'
+      start: 0
+      end: 22990
+  fd787ba0e4dd4a37993b5880f5e5f7e1:
+    work_id: WD8B74103
+    span:
+      vol: 'CII_Chapter VIII: Karmakārakaparīkṣā'
+      start: 0
+      end: 0
+  521f2adcdb2646aeb6b5d6690e713c8d:
+    work_id: W877FC22F
+    span:
+      vol: 'CII_Chapter X: Agnīndhanaparīkṣā'
+      start: 0
+      end: 0
+  1ee8e13f7bf1465a819f109ab9e68bf1:
+    work_id: W4A8D555E
+    span:
+      vol: 'CIV_Chapter XIX: Kālaparīkṣā'
+      start: 0
+      end: 0
+  c0b24d3c58b6403a9106fc019e0c02ed:
+    work_id: WDEF8F6AE
+    span:
+      vol: 'CIV_Chapter XVI: Bandhanamokṣaparīkṣā'
+      start: 0
+      end: 0
+  dea4ff6f2ae945e3918c3958dd4526eb:
+    work_id: WC711CDCC
+    span:
+      vol: 'CIV_Chapter XVII: Karmaphalaparīkṣā'
+      start: 0
+      end: 0
+  8d81364cf16c42b9ac994fbed31ef06f:
+    work_id: W1CA44C84
+    span:
+      vol: 'CIV_Chapter XVIII: Ātmaparīkṣā'
+      start: 0
+      end: 0
+  70fc02258bf34660b9e24214d32c4cd9:
+    work_id: W00055208
+    span:
+      vol: 'CIV_Chapter XX: Sāmagrīparīkṣā'
+      start: 0
+      end: 0
+  19ca19a59be04cce9b0f560197b32506:
+    work_id: WDB8EE411
+    span:
+      vol: 'CI_Chapter I: Pratyayaparīkṣā'
+      start: 0
+      end: 7413
+  eb08ff6ae4db45fca19676781b9bde21:
+    work_id: W840758DE
+    span:
+      vol: 'CI_Chapter II: Gatāgataparīkṣaṇa'
+      start: 0
+      end: 9093
+  eec789532a754c0a8d24f46ff032be8d:
+    work_id: W46A3BC44
+    span:
+      vol: 'CI_Chapter III: Cakṣurādīndriyaparīkṣā'
+      start: 0
+      end: 3250
+  d203b7269e6042ed9fb49ab7611e5d46:
+    work_id: W4FA69811
+    span:
+      vol: 'CI_Chapter IV: Skandhaparīkṣā'
+      start: 0
+      end: 3800
+  2ddf1e9dfd834bbab2c7434dda982d6b:
+    work_id: WBB24D243
+    span:
+      vol: 'CI_Chapter V: Dhātuparīkṣā'
+      start: 0
+      end: 4301
+  93ff16842a1a4fdc945098be0d502640:
+    work_id: W7C4D7DDD
+    span:
+      vol: 'CVI_Chapter XXVI: Dvādaśāṅgaparīkṣā'
+      start: 0
+      end: 0
+  c5b1e13a4d914868917d7a5e6f1ecac9:
+    work_id: W9866E625
+    span:
+      vol: 'CVI_Chapter XXVII: Dr̥ṣṭiparīkṣā'
+      start: 0
+      end: 0
+  ce90505c65e7473398a3efad0f8caf88:
+    work_id: WFF146982
+    span:
+      vol: 'CV_Chapter XXI: Saṃbhavavibhavaparīkṣā'
+      start: 0
+      end: 0
+  916b6f19d9124a1d9aa461a261dbc43b:
+    work_id: WA7ED31EA
+    span:
+      vol: 'CV_Chapter XXII: Tathāgataparīkṣā'
+      start: 0
+      end: 0
+  732f979358b64e269f90808c990dc86d:
+    work_id: WB74AC4C3
+    span:
+      vol: 'CV_Chapter XXIII: Viparyāsaparīkṣā'
+      start: 0
+      end: 0
+  c696e9bb4d8f450a8df9f46f00182bac:
+    work_id: W3DDF9AB1
+    span:
+      vol: 'CV_Chapter XXIV: Āryasatyaparīkṣā'
+      start: 0
+      end: 0
+  3de6a4129e2a4d8ba443d0f94742d491:
+    work_id: W8894E786
+    span:
+      vol: 'CV_Chapter XXV: nirvāṇaparīkṣā'
+      start: 0
+      end: 0
+  80b1a41dc43d4a27907ff555f8cf9634:
+    work_id: WBFAA2BE2
+    span:
+      vol: Colophon
+      start: 0
+      end: 0
+  38f1fc6723004991b89b85b8010dd617:
+    work_id: WE0C034BC
+    span:
+      vol: Preface
+      start: 0
+      end: 11695
+  7f2d1f05a35b48d198f97307ade6d848:
+    work_id: W45F5F489
+    span:
+      vol: Title
+      start: 0
+      end: 232
